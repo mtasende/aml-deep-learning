@@ -1,0 +1,9 @@
+Tensorflow:
+
+https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/
+
+https://www.tensorflow.org/tutorials
+
+https://github.com/tensorflow/docs/tree/r1.3/site/en/api_docs
+
+
